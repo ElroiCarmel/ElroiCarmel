@@ -20,7 +20,8 @@ Hello! I'm Elroi Carmel, A 2nd year Computer Science student at Ariel University
     <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30" />
 </a>
 </p>
-## Statistics ⚡
+
+## Statistics
 
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElroiCarmel&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=500&theme=auto" />
 
