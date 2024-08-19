@@ -20,6 +20,6 @@ I'm a Computer Science student at Ariel University. Passionate about software de
 
 
 ## 🚀 Projects
-- **[Vikings Chess]((https://github.com/ElroiCarmel/VikingsChess)):** A strategic board game inspired by historical Viking chess. (Java, OOP principles)
+- <a href = "https://github.com/ElroiCarmel/VikingsChess">**[Vikings Chess]:**</a> A strategic board game inspired by historical Viking chess. (Java, OOP principles)
 
 
