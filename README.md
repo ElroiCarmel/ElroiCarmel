@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Elroi Carmel 👋
 
 ## About Me
 I'm a Computer Science student at Ariel University. Passionate about software development, algorithms, and problem-solving.
