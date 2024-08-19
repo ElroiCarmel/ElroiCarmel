@@ -1,7 +1,7 @@
 # Hi there, I'm Elroi Carmel 👋
 
 ## About Me
-I'm a Computer Science student at Ariel University. Passionate about software development, algorithms, and problem-solving.
+I'm a 2nd year Computer Science student at Ariel University. Passionate about software development, algorithms, and problem-solving.
 <p>
     <a href="http://www.linkedin.com/in/elroi-carmel/" style="margin-left: 20px">
     <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30" />
