@@ -31,18 +31,8 @@ I am a software engineer focused on building clean, robust, and highly maintaina
 
 ---
 
-### 📊 Dynamic Insights & Activity
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElroiCarmel&show_icons=true&theme=tokyonight&count_private=true" alt="Your GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElroiCarmel&layout=compact&theme=tokyonight" alt="Top Languages" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElroiCarmel&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### 🤝 Let's Collaborate
+I am always open to teaming up on interesting, impactful, or technically challenging projects. If you are working on **complex backend architectures**, **data pipelines**, or **computer vision applications** and need someone who loves solving algorithmic problems with clean, production-grade code, let's build something together!
 
 ---
 
