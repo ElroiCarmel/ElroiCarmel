@@ -36,8 +36,8 @@ I am a software engineer focused on building clean, robust, and highly maintaina
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username below -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Your GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ElroiCarmel&show_icons=true&theme=tokyonight&count_private=true" alt="Your GitHub Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElroiCarmel&layout=compact&theme=tokyonight" alt="Top Languages" height="190" />
 </p>
 
 <p align="center">
